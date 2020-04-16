@@ -1,10 +1,10 @@
 
-# asdf
-[![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/masonburke/asdf)
+# README-Generator
+[![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/masonburke/readme-generator)
 
 ## description
 
-asdf
+Using your terminal you can create an in depth README for any of you new projects!
 
 ## table of contents
 
@@ -19,7 +19,7 @@ To install necessary dependencies, run the following command:
 npm i
 
 ## usage
-asdf
+use node index in your command terminal to begin using this and answer each question as best you can
 
 
     ## License 
@@ -28,7 +28,7 @@ asdf
     
 
 ## contributing
-asdf
+
 
 ## tests
 to run tests run the following commands
